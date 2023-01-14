@@ -1,0 +1,11 @@
+C:\Users\77052\source\repos\Maycalc\Maycalc\bin\Debug\Maycalc.exe.config
+C:\Users\77052\source\repos\Maycalc\Maycalc\bin\Debug\Maycalc.exe
+C:\Users\77052\source\repos\Maycalc\Maycalc\bin\Debug\Maycalc.pdb
+C:\Users\77052\source\repos\Maycalc\Maycalc\obj\Debug\Maycalc.csproj.AssemblyReference.cache
+C:\Users\77052\source\repos\Maycalc\Maycalc\obj\Debug\Maycalc.Form1.resources
+C:\Users\77052\source\repos\Maycalc\Maycalc\obj\Debug\Maycalc.Properties.Resources.resources
+C:\Users\77052\source\repos\Maycalc\Maycalc\obj\Debug\Maycalc.csproj.GenerateResource.cache
+C:\Users\77052\source\repos\Maycalc\Maycalc\obj\Debug\Maycalc.csproj.CoreCompileInputs.cache
+C:\Users\77052\source\repos\Maycalc\Maycalc\obj\Debug\Maycalc.exe
+C:\Users\77052\source\repos\Maycalc\Maycalc\obj\Debug\Maycalc.pdb
+C:\Users\77052\source\repos\Maycalc\Maycalc\obj\Debug\Maycalc.Form2.resources
